@@ -24,7 +24,7 @@ npm install
 npx cypress open
 ```
 ### Run test
- Correr el test llamado "login.spes.js" ubicado en la carpeta e2e
+ Correr el test llamado "login.spec.js" ubicado en la carpeta e2e
  
 ### Web de ejemplo
 
