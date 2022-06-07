@@ -23,6 +23,9 @@ npm install
 ```bash
 npx cypress open
 ```
+### Run test
+ Correr el test llamado "login.spes.js" ubicado en la carpeta e2e
+ 
 ### Web de ejemplo
 
 Utilizamos como ejemplo para realizar pruebas con el framework la siguiente [web pública](https://the-internet.herokuapp.com/login).
