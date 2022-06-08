@@ -28,7 +28,7 @@ npx cypress open
  
 ### Web de ejemplo
 
-Utilizamos como ejemplo para realizar pruebas con el framework la siguiente [web pública](https://the-internet.herokuapp.com/login).
+La web que se uso para realizar las pruebas con el framework es la siguiente [web pública](https://the-internet.herokuapp.com/login).
 
 ### Créditos
 
